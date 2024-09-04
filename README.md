@@ -1,2 +1,2 @@
 # my-first-repo
-!{Robin}(robin.jpeg)
+![Robin](robin.jpeg)
